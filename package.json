@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"https://wwww.ciaranmcginley.ie",
+  "homepage":"http://wwww.ff75.github.io/mywebsite/",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
